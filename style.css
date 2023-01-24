@@ -10,6 +10,9 @@ h1 {
   padding: 20px;
   padding-bottom: 10px;
 }
+body{
+zoom: 2.3;
+}
 #watch {
   font-size: 40px;
   font-weight: 900;
@@ -29,5 +32,15 @@ h1 {
     width: 300px;
     box-shadow: 1px 1px 20px 10px #ffefe1;
     margin-left: 30px;
+}
+.githublink{
+ font-size: 15px;
+    margin-top: -30px;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    text-decoration: overline;
+    color: blue;
+    text-transform: capitalize; 
 }
 /* developed by i_avyakta */
